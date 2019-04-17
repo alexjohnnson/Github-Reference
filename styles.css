@@ -1,0 +1,39 @@
+h1 {
+	color: #05386D;
+	font-size: 55px;
+	font-family: Georgia;
+	text-align: center;
+}
+
+p {
+	color: #05386D;
+	font-size: 20px;
+	font-family: arial;
+	text-align: center
+}
+
+h2 {
+color: #05386D;
+font-size: 36px;
+font-family: georgia;
+text-align: center;
+}
+
+h3 {
+color: #05386D;
+font-size: 24px;
+font-family: Arial;
+text-align: center;
+}
+
+img {
+	height: 200px;
+	width: 200px;
+	border: 10px solid #ffffff;
+}
+
+body {
+	background-color: #F4f8FF
+}
+
+
